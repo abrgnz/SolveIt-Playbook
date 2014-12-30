@@ -6,8 +6,7 @@ Here you can find useful links to books, tutorials and papers that contain basic
 
 ##Rails
 *[RUBY ON RAILS TUTORIAL](www.railstutorial.org/book) -> Michael Hartl
-
-This tutorial cover the basics on how to develop and deploy web applications with Ruby on Rails.
+    This tutorial cover the basics on how to develop and deploy web applications with Ruby on Rails.
   
 
 
