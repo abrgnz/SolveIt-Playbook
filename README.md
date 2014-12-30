@@ -6,7 +6,7 @@ Here you can find useful links to books, tutorials and papers that contain basic
 
 Basic Ruby interactive tutorial for learning the basics.
 ***
- [why's (poignant) guide to ruby](http://www.rubyinside.com/media/poignant-guide.pdf). -> Code School
+ [why's (poignant) guide to ruby](http://www.rubyinside.com/media/poignant-guide.pdf). -> Chunky Bacon
 
 Guide that teaches even babies how to use ruby!
 
