@@ -1,6 +1,15 @@
 #SolveIt-Playbook
 
 Here you can find useful links to books, tutorials and papers that contain basic knowledge required to work at SolveIt.
+##Ruby
+* [Try Ruby](http://tryruby.org). -> Code School
+
+Basic Ruby interactive tutorial for learning the basics.
+
+* [Try Ruby](http://www.rubyinside.com/media/poignant-guide.pdf). -> Code School
+Guide that teaches babies how to use ruby!
+
+
 
 ##Rails
 * [RUBY ON RAILS TUTORIAL](https://www.railstutorial.org/book). -> Michael Hartl
