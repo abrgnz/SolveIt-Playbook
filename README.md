@@ -16,7 +16,7 @@ Guide that teaches even babies how to use ruby!
  [RUBY ON RAILS TUTORIAL](https://www.railstutorial.org/book). -> Michael Hartl
 
 This tutorial covers the basics on how to develop and deploy web applications with Ruby on Rails.
-***
+
 ##Terminal 
  [CONQUERING THE COMMAND LINE](https://www.conqueringthecommandline.com/book). -> Mark Bates
 
