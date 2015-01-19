@@ -22,3 +22,5 @@ This tutorial covers the basics on how to develop and deploy web applications wi
 
 Learn to master and conquer the most valuable and useful command line tools for Unix and Linux based systems.
 
+##VIM
+Run in the Terminal `$ vimtutor`
