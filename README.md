@@ -24,4 +24,5 @@ Learn to master and conquer the most valuable and useful command line tools for 
 
 ##VIM
 Run `$ vimtutor` in the Terminal 
+
 This tutor is designed to describe enough of the commands that you will be able to easily use Vim as an all-purpose editor.
