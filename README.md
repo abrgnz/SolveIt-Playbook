@@ -5,10 +5,14 @@ Here you can find useful links to books, tutorials and papers that contain basic
  [Try Ruby](http://tryruby.org). -> Code School
 
 Basic Ruby interactive tutorial for learning the basics.
-***
+
  [why's (poignant) guide to ruby](http://www.rubyinside.com/media/poignant-guide.pdf). -> Chunky Bacon
 
 Guide that teaches even babies how to use ruby!
+
+ [Variables and Constants](http://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Variables_and_Constants#Class_Variables). -> WikiBooks
+
+Documentation on the different types of variables in ruby.
 
 
 
