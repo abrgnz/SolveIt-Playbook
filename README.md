@@ -19,7 +19,7 @@ Documentation on the different types of variables in ruby.
 
 This tutorial covers the basics on how to develop and deploy web applications with Ruby on Rails.
 ##IOS
- [IOS 8 Apps with SWIFT](https://itunes.apple.com/mx/course/developing-ios-8-apps-swift/id961180099?l=en). -> Paul Hegarty
+ [Developing iOS 8 Apps with Swift](https://itunes.apple.com/mx/course/developing-ios-8-apps-swift/id961180099?l=en). -> Paul Hegarty
 ##Terminal 
  [CONQUERING THE COMMAND LINE](https://www.conqueringthecommandline.com/book). -> Mark Bates
 
