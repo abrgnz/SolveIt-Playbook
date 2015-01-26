@@ -14,13 +14,12 @@ Guide that teaches even babies how to use ruby!
 
 Documentation on the different types of variables in ruby.
 
-
-
 ##Rails
  [RUBY ON RAILS TUTORIAL](https://www.railstutorial.org/book). -> Michael Hartl
 
 This tutorial covers the basics on how to develop and deploy web applications with Ruby on Rails.
-
+##IOS
+ [IOS 8 Apps with SWIFT](https://itunes.apple.com/mx/course/developing-ios-8-apps-swift/id961180099?l=en). -> Paul Hegarty
 ##Terminal 
  [CONQUERING THE COMMAND LINE](https://www.conqueringthecommandline.com/book). -> Mark Bates
 
@@ -30,3 +29,4 @@ Learn to master and conquer the most valuable and useful command line tools for 
 Run `$ vimtutor` in the Terminal 
 
 This tutor is designed to describe enough of the commands that you will be able to easily use Vim as an all-purpose editor.
+
